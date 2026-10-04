@@ -5,7 +5,7 @@ SPDX-FileCopyrightText: 2019-Present Contributors to FluffyChat
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
-For security and compliance reasons it is strictly
+For security and compliance reasons it is not 
 prohibited to let an LLM edit any files in this
 repository.
 Any change must be done by a human being.
